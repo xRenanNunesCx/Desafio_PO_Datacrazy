@@ -5,7 +5,7 @@ Resolução do desafio técnico de Product Owner (Datacrazy, 2026): redesenho da
 ## 📎 Entregáveis do desafio
 
 1. **Protótipo** — este repositório (Next.js + Tailwind CSS + shadcn/ui, gerado via [v0.dev](https://v0.dev) e ajustado pra aproximar da identidade visual real da Datacrazy)
-2. **Modelagem de dados e PRD** — [link do documento Notion aqui]
+2. **Modelagem de dados e PRD** — [Link para o documento no Notion](https://app.notion.com/p/Desafio-PO-2026-Datacrazy-3dbe009b4a4a81398982ca45c23fe6b7)
 3. **Organização do trabalho** — backlog, sprints e priorização (MoSCoW/RICE) no PRD acima + board de execução em [Projects](../../projects) deste repositório
 
 ## 🖥️ Rodando localmente
